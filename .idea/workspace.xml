@@ -20,7 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2f19bee-ef18-4285-9be6-f08a836edaa6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/management/commands/wait_for_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/tests/test_commands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608372195627</updated>
-      <workItem from="1608372199913" duration="16793000" />
+      <workItem from="1608372199913" duration="21564000" />
     </task>
     <servers />
   </component>
