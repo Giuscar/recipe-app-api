@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2f19bee-ef18-4285-9be6-f08a836edaa6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/tests/test_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/tests/test_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/recipe/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/recipe/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/recipe/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,7 @@
       <workItem from="1608372199913" duration="21564000" />
       <workItem from="1608544623356" duration="17103000" />
       <workItem from="1608662423797" duration="4094000" />
-      <workItem from="1608802694549" duration="1268000" />
+      <workItem from="1608802694549" duration="3732000" />
     </task>
     <servers />
   </component>
@@ -133,6 +134,10 @@
       <screen x="72" y="27" width="1848" height="943" />
     </state>
     <state x="687" y="63" width="618" height="870" key="find.popup/72.27.1848.943@72.27.1848.943" timestamp="1608578675415" />
+    <state x="659" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1608804938488">
+      <screen x="72" y="27" width="1848" height="887" />
+    </state>
+    <state x="659" y="217" width="672" height="678" key="search.everywhere.popup/72.27.1848.887@72.27.1848.887" timestamp="1608804938488" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/recipe_app_api$Unittests_for_test_user_api_PublicUserApiTests.coverage" NAME="Unittests for test_user_api.PublicUserApiTests Coverage Results" MODIFIED="1608547569638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/user/tests" />
