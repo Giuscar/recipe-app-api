@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c2f19bee-ef18-4285-9be6-f08a836edaa6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/recipe/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/tests/test_recipe_api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/recipe/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/views.py" afterDir="false" />
     </list>
@@ -86,7 +85,7 @@
       <workItem from="1608544623356" duration="17103000" />
       <workItem from="1608662423797" duration="4094000" />
       <workItem from="1608802694549" duration="4347000" />
-      <workItem from="1609006076435" duration="1331000" />
+      <workItem from="1609006076435" duration="2426000" />
     </task>
     <servers />
   </component>
